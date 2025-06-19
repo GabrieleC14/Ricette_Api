@@ -1,0 +1,14 @@
+DROP TABLE IF EXISTS noteRicetta;
+DROP TABLE IF EXISTS ValoriNutrizionali;
+DROP TABLE IF EXISTS Likes;
+DROP TABLE IF EXISTS commenti;
+DROP TABLE IF EXISTS valutazioni;
+DROP TABLE IF EXISTS ricette_Tag;
+DROP TABLE IF EXISTS Tag_Dettaglio;
+DROP TABLE IF EXISTS Tag_Testata;
+DROP TABLE IF EXISTS ricette_ingredienti;
+DROP TABLE IF EXISTS Anagrafica_Ingredienti;
+DROP TABLE IF EXISTS Anagrafica_UnitaDiMisura;
+DROP TABLE IF EXISTS immagini;
+DROP TABLE IF EXISTS ricette;
+DROP TABLE IF EXISTS utenti;
