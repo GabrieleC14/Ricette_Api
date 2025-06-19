@@ -1,4 +1,4 @@
-﻿namespace OptimaRicetteWS
+﻿namespace OptRicetteApi
 {
     public class TokenStore
     {

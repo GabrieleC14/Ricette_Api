@@ -2,13 +2,13 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
-using OptimaRicetteWS.Data;
-using OptimaRicetteWS.Models;
+using OptRicetteApi.Data;
+using OptRicetteApi.Models;
 using System.Text.Json;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace OptimaRicetteWS.Controllers
+namespace OptRicetteApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

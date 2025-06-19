@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
-using OptimaRicetteWS;
-using OptimaRicetteWS.Data;
+using OptRicetteApi;
+using OptRicetteApi.Data;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);

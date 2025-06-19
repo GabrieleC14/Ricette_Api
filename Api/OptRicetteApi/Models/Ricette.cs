@@ -1,4 +1,4 @@
-﻿namespace OptimaRicetteWS.Models
+﻿namespace OptRicetteApi.Models
 {
     public class Ricette
     {

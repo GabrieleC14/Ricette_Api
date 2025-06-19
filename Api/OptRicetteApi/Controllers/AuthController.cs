@@ -4,12 +4,11 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Security.Cryptography;
 using System.Text;
-using OptimaRicetteWS.Models;
+using OptRicetteApi.Models;
 
-namespace OptimaRicetteWS.Controllers
+namespace OptRicetteApi.Controllers
 {
    
-
     [Route("api/[controller]")]
     [ApiController]
     public class AuthController : ControllerBase
@@ -93,7 +92,7 @@ namespace OptimaRicetteWS.Controllers
     }
 }
 
-namespace OptimaRicetteWS.Models
+namespace OptRicetteApi.Models
 {
     public class UserLogin
     {

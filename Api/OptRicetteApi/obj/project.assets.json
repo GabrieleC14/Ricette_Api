@@ -3419,11 +3419,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\source\\repos\\OptimaRicetteWS\\OptimaRicetteWS\\OptRicetteApi.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Documents\\GitHub\\Ricette_Api\\Api\\OptRicetteApi\\OptRicetteApi.csproj",
       "projectName": "OptRicetteApi",
-      "projectPath": "C:\\Users\\pc\\source\\repos\\OptimaRicetteWS\\OptimaRicetteWS\\OptRicetteApi.csproj",
+      "projectPath": "C:\\Users\\pc\\Documents\\GitHub\\Ricette_Api\\Api\\OptRicetteApi\\OptRicetteApi.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\source\\repos\\OptimaRicetteWS\\OptimaRicetteWS\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Documents\\GitHub\\Ricette_Api\\Api\\OptRicetteApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

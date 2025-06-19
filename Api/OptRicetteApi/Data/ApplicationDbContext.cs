@@ -1,8 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using OptimaRicetteWS.Models;
+using 
+    
+    OptRicetteApi.Models;
 using System.Collections.Generic;
 
-namespace OptimaRicetteWS.Data
+namespace OptRicetteApi.Data
 {
 
 

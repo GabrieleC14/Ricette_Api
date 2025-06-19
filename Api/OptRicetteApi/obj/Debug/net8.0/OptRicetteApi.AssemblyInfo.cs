@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OptRicetteApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb3838dee39e3604b5b1ec8f5e9c7775ffe9c07e")]
 [assembly: System.Reflection.AssemblyProductAttribute("OptRicetteApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OptRicetteApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
